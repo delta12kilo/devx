@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://hari_krishhna:yoyobantai@devconnector.eccnr.mongodb.net/devx?retryWrites=true&w=majority",
+    "jwtToken": "jwtsecrettoken",
+    "githubClientId": "7f09ec959f8f21ca766d",
+    "githubSecret": "e39a049a598816b71cab19c496a2572ecc14aa39"
+}
