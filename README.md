@@ -16,9 +16,9 @@
 - Heroku
 #### Screenshots
 
-![](images/ss11.png)
-![](images/ss22.png)
-![](images/ss33.png)
+![](ss11.png)
+![](ss22.png)
+![](ss33.png)
 
 #### Link
 https://mighty-castle-84093.herokuapp.com/
